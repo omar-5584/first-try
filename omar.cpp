@@ -2,7 +2,7 @@
 #include<string>
 
 using namespace std;
-int main()
+int main()  /// eid mobarak
 {
 	cout << "hello hamza\n\n";
 	cout << "hello omar\n\n";
