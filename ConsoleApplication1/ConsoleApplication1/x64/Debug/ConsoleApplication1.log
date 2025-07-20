@@ -1,0 +1,2 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\hp\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(15,1): error C4700: uninitialized local variable 'n' used
